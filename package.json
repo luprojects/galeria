@@ -15,7 +15,7 @@
     "tsparticles-engine": "^2.5.2"
   },
   "scripts": {
-    "deploy": "npx gh-pages -d build",
+    "deploy": "gh-pages -d .",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
