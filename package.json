@@ -37,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "projects",
+  "description": "web site",
   "main": "index.html",
   "devDependencies": {
     "github-pages": "^3.0.2"
