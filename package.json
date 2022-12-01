@@ -38,7 +38,7 @@
     ]
   },
   "description": "projects",
-  "main": "index.js",
+  "main": "index.html",
   "devDependencies": {
     "github-pages": "^3.0.2"
   },
