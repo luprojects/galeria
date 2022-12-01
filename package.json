@@ -2,7 +2,7 @@
   "name": "galeria",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luprojects.github.io/galeria",
+  "homepage": "https://luprojects.github.io/galeria/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -16,7 +16,7 @@
     "tsparticles-engine": "^2.5.2"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "npx gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
